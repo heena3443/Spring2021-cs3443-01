@@ -1,6 +1,7 @@
 public class TravelDestination {
 
 	public static void main(String[] args) {
+		System.out.println("My name is Jacob Forney. I wish to travel to the UK once Covid goes away!");
 		System.out.println("My name is Heena Rathore. I wish to travel to England once this Covid goes away!");
 		System.out.println("My name is Megan Garza. I wish to travel to Colorado and Florida pnce Covid is over.");
 		System.out.println("My name is Filiberto Rios. I Wish to travel to Japan once Covid goes away!");
@@ -24,7 +25,17 @@ public class TravelDestination {
 		System.out.println("My name is Yzan Qaryouti. I wish to travel to Spain once this Covid goes away!");
 		System.out.println("My name is Pablo Marroquin. I wish to travel to Scotland once this Covid goes away!");
 		System.out.println("My name is Marianno Reynoso. I wish to travel to Italy once this Covid goes away!");
-
+		System.out.println("My name is Edgar Vasquez. I wish to travel to Japan once this Covid goes away!");
+		System.out.println("My name is Lisette Isais. I wish to travel to Oregon once this Covid goes away!");
+		System.out.println("My name is Duy Le. I wish to travel to Japan once this Covid goes away!");
+		System.out.println("My name is Jeffrey Flowers. I wish to travel to California once this Covid goes away!");
+		System.out.println("My name is Ravinder Chaupain. I wish to travel to India once this Covid goes away!");
+		System.out.println("My name is Minh Le. I wish to travel to Japan once this Covid goes away!");
+		System.out.println("My name is Angelica Zamarron. I wish to travel to Italy once this Covid goes away!");
+		System.out.println("My name is Diego Zamora. I wish to travel to Japan once this Covid goes away!");
+		System.out.println("My name is Timothy Lesgaux. I wish to travel to Las Vegas once this Covid goes away!");
+		System.out.println("My name is Hannah Bradley. I wish to travel to Korea once this Covid goes away!");
+		System.out.println("My name is Paula Sirisumpund. I wish to travel to Thailand once this Covid goes away!");
 	}
 
 }
