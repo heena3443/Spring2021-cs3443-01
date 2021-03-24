@@ -33,6 +33,7 @@ public class TravelDestination {
 		System.out.println("My name is Angelica Zamarron. I wish to travel to Italy once this Covid goes away!");
 		System.out.println("My name is Diego Zamora. I wish to travel to Japan once this Covid goes away!");
 		System.out.println("My name is Timothy Lesgaux. I wish to travel to Las Vegas once this Covid goes away!");
+		System.out.println("My name is Timothy Lesgaux. I wish to travel to Las Vegas once this Covid goes away!");
 		System.out.println("My name is Hannah Bradley. I wish to travel to Korea once this Covid goes away!");
 		System.out.println("My name is Paula Sirisumpund. I wish to travel to Thailand once this Covid goes away!");
 		System.out.println("My name is William Wells. I wish to tavel to New Zealand once this Covid goes away!");
@@ -58,6 +59,7 @@ public class TravelDestination {
 		System.out.println("My name is Truman Hickok. I wish to travel to New York once this Covid goes away!");
 		System.out.println("My name is Courtney Gaura. I wish to travel to New York once this Covid goes away!");
 		System.out.println("My name is Benito Pimentel. I wish to travel to Lebanon once this Covid goes away!");
+		System.out.println("My name is Thanhlan Trinh. I wish to travel to Brazil once this Covid goes away!");
 	}
 
 }
