@@ -43,6 +43,7 @@ public class TravelDestination {
 		System.out.println("My name is Andrew Vitek. I wish to travel to Czech Republic once this Covid goes away!");
 		System.out.println("My name is Hayley Miller. I wish to travel to Iceland once this Covid goes away!");
 		System.out.println("My name is Edgar Vasquez. I wish to travel to Japan once this Covid goes away!");
+		System.out.println("My name is Samuel Shiau. I wish to travel to Japan one this Covid goes away!");
 	}
 
 }
